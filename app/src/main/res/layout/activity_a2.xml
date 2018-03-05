@@ -10,7 +10,7 @@
         android:id="@+id/T2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="A2"
+        android:text="T2"
         app:layout_constraintBottom_toTopOf="@+id/T3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -21,7 +21,7 @@
         android:id="@+id/T3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView"
+        android:text="T3"
         app:layout_constraintBottom_toTopOf="@+id/B2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -33,10 +33,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="startA3"
-        android:text="Button"
+        android:text="B2"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/T3" />
+
 </android.support.constraint.ConstraintLayout>

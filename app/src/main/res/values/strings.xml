@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">handin1</string>
+    <string-array name="spnL1">
+
+        <item>William</item>
+        <item>Oskar</item>
+        <item>Lucas</item>
+        <item>Mathias</item>
+
+        <item>Nora</item>
+        <item>Emma</item>
+        <item>Sara</item>
+        <item>Sofie</item>
+
+    </string-array>
 </resources>
